@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with https://jagandas-number-game.netlify.app/
+This project was bootstrapped with react  https://jagandas-number-game.netlify.app/ ![image](https://github.com/user-attachments/assets/24778e40-8674-4f6a-8225-06502d18552d)
+
 
 ## Available Scripts
 
